@@ -19,7 +19,6 @@ The system itself can be run on both Vritualbox and Vmware. It is also made off 
 Here is the login details:
 
 Username: user
-
 Password: changeme
 
 ---------------------------------------------
