@@ -14,6 +14,13 @@ The system itself can be run on both Vritualbox and Vmware. It is also made off 
 
 ---------------------------------------------
 
+## How-to Login
+
+Here is the login details:
+
+Username: user
+Password: changeme
+
 ## Download Links
 
 You can download the system from here, be prepared to wait a while. Then make sure to "import" the file to the application.
