@@ -21,6 +21,8 @@ Here is the login details:
 Username: user
 Password: changeme
 
+---------------------------------------------
+
 ## Download Links
 
 You can download the system from here, be prepared to wait a while. Then make sure to "import" the file to the application.
